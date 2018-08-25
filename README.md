@@ -32,11 +32,10 @@ These repositories are my own versions of the tutorials for the following class,
 I wrote some educational materials for learning quantum electrodynamics (e.g. calculating scattering amplitudes) without (much) prior mathematical or physics experience. I taught this class to high school students as part of MIT's HSSP educational program. Eventually those materials will make their way up here.
 #### Neutrinos
 I used to work on [KamLAND](http://www.awa.tohoku.ac.jp/kamlande/) and I did an undergraduate thesis on joint detection of supernovae using gravitational waves and neutrinos (back before gravitational waves were confirmed to exist!) 
-<p>No joint events so far: https://arxiv.org/abs/1606.07155
+No clear joint events so far, but we're keeping a [look out!](https://arxiv.org/abs/1606.07155)
 
 #### Dark Matter
-I did some undergraduate research on bound dark matter states (wimponium). 
-<p>Paper here: https://arxiv.org/abs/1610.07617
+I did some undergraduate research on bound dark matter states called [wimponium](https://arxiv.org/abs/1610.07617)
 
 
 ### Miscellaneous Hobby-Related Drabbles
