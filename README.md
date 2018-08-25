@@ -3,7 +3,7 @@
 
 [August 2018 Calendar](AugCalendar.md)
 
-[WHOI To-Do List](whoi-todos.md) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
+[WHOI To-Do List](todo-whoi.md) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
 
 ## Non-work-related Repositories
 ### Data Science-Related Projects
@@ -12,11 +12,11 @@ This is a project I am working on with the WHOI dive department to study human f
 #### [Technical Accidents](https://github.com/emmettk/TechnicalAccidents)
 This is a work-in-progress project attempting to mathematically model the distribution of skydiving fatalities by the level of problem experienced by the jumper vs their level of competence responding to it, the idea being that the probability of a fatality depends on the probability of a certain level of mishap and the probability of a certain level of compentent responce. This project is currently mostly for my own entertainment rather than serious data science. 
 #### [Tensorflow Examples](https://github.com/emmettk/TensorFlowExamples)
-Some simple tensorflow examples and related notes
+Some simple tensorflow examples and related notes. Work in progress.
 #### [Logistic Regression](https://github.com/emmettk/LogisticRegression)
-Some examples of logistic regression will go here eventually
+Some examples of logistic regression will go here eventually. Work in progress.
 #### [Bamboo Shoots](https://github.com/emmettk/bamboo-shoots)
-This is where I put pandas-related notes and examples. 
+This is where I put pandas-related notes and examples. Work in progress.
 
 ### ROS(Robot Operating System)
 These repositories are my own versions of the tutorials for the following class, which I took at WHOI in Nov/Dec 2017.
