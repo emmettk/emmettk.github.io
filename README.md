@@ -1,4 +1,3 @@
-# Emmett Krupczak
 [July 2018 Calendar](JulyCalendar.md)
 
 [August 2018 Calendar](AugCalendar.md)
