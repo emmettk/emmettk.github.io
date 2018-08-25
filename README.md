@@ -17,7 +17,7 @@ Some examples of logistic regression will go here eventually. Work in progress.
 #### [Bamboo Shoots](https://github.com/emmettk/bamboo-shoots)
 This is where I put pandas-related notes and examples. Work in progress.
 
-### ROS(Robot Operating System)
+### ROS (Robot Operating System)
 These repositories are my own versions of the tutorials for the following class, which I took at WHOI in Nov/Dec 2017.
 [https://dscl.lcsr.jhu.edu/home/courses/ros_short_course_fall_2017/](https://dscl.lcsr.jhu.edu/home/courses/ros_short_course_fall_2017/)
 - [Module 1](https://github.com/emmettk/beginner_tutorials)
@@ -25,6 +25,9 @@ These repositories are my own versions of the tutorials for the following class,
 - [Module 3](https://github.com/emmettk/joy_twist)
 - [Module 4](https://github.com/emmettk/edumip_my_robot)
 - [Module 5 and 6](https://github.com/emmettk/edumip_my_robot_gazebo_ros)
+
+### [Physics From Scratch](www.physicsfromscratch.xyz)
+I wrote some educational materials for learning quantum electrodynamics (e.g. calculating scattering amplitudes) without (much) prior mathematical or physics experience. I taught this class to high school students as part of MIT's HSSP educational program. Eventually those materials will make their way up here.
 
 ### Miscellaneous Hobby-Related Drabbles
 #### [Emergency Medicine](https://github.com/emmettk/EMT)
