@@ -26,7 +26,8 @@ These repositories are my own versions of the tutorials for the following class,
 - [Module 4](https://github.com/emmettk/edumip_my_robot)
 - [Module 5 and 6](https://github.com/emmettk/edumip_my_robot_gazebo_ros)
 
-### [Physics From Scratch](www.physicsfromscratch.xyz)
+### Physics Projects
+#### [Physics From Scratch](http://www.physicsfromscratch.xyz)
 I wrote some educational materials for learning quantum electrodynamics (e.g. calculating scattering amplitudes) without (much) prior mathematical or physics experience. I taught this class to high school students as part of MIT's HSSP educational program. Eventually those materials will make their way up here.
 
 ### Miscellaneous Hobby-Related Drabbles
