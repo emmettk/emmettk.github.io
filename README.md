@@ -8,7 +8,7 @@
 A loosely-organized directory of my non-work-related technical projects.
 ### Data Science-Related Projects
 #### Human Factors 
-This is a project I am working on with the WHOI dive department to study human factors in diving - specifically, how factors such as temperature, visibility, experience level, task loading, etc, influence dive outcomes and diver performance. (This repository is private for now to protect the privacy of the divers as the data is aggregated.) 
+This is a project I am working on with the WHOI dive department to study human factors in diving - specifically, how factors such as temperature, visibility, experience level, task loading, etc, influence dive outcomes and diver performance. (This repository is private for now to protect the privacy of the divers until the data is aggregated.) 
 #### [Technical Accidents](https://github.com/emmettk/TechnicalAccidents)
 This is a work-in-progress project attempting to mathematically model the distribution of skydiving fatalities by the level of problem experienced by the jumper vs their level of competence responding to it, the idea being that the probability of a fatality depends on the probability of a certain level of mishap and the probability of a certain level of compentent responce. This project is currently mostly for my own entertainment rather than serious data science. 
 #### [Tensorflow Examples](https://github.com/emmettk/TensorFlowExamples)
