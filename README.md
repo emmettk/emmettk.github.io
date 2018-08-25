@@ -1,9 +1,9 @@
 # Emmett Krupczak
-[July 2018 Calendar](JulyCalendar)
+[July 2018 Calendar](JulyCalendar.md)
 
-[August 2018 Calendar](AugCalendar)
+[August 2018 Calendar](AugCalendar.md)
 
-[WHOI To-Do List](whoi-todos) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
+[WHOI To-Do List](whoi-todos.md) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
 
 ## Non-work-related Repositories
 ### Data Science-Related Projects
