@@ -2,7 +2,7 @@
 
 [August 2018 Calendar](AugCalendar.md)
 
-[WHOI To-Do List](todo-whoi.md) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
+[WHOI To-Do List](todo-whoi.html) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
 
 ## Non-work-related Repositories
 ### Data Science-Related Projects
