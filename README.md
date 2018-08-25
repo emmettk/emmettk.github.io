@@ -2,9 +2,10 @@
 
 [August 2018 Calendar](AugCalendar.md)
 
-[WHOI To-Do List](todo-whoi.html) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
+[WHOI To-Do List](https://emmettk.github.io/todo-whoi.html) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
 
-## Non-work-related Repositories
+## Personal Projects 
+A loosely-organized directory of my non-work-related technical projects.
 ### Data Science-Related Projects
 #### Human Factors 
 This is a project I am working on with the WHOI dive department to study human factors in diving - specifically, how factors such as temperature, visibility, experience level, task loading, etc, influence dive outcomes and diver performance. (This repository is private for now to protect the privacy of the divers as the data is aggregated.) 
@@ -29,6 +30,14 @@ These repositories are my own versions of the tutorials for the following class,
 ### Physics Projects
 #### [Physics From Scratch](http://www.physicsfromscratch.xyz)
 I wrote some educational materials for learning quantum electrodynamics (e.g. calculating scattering amplitudes) without (much) prior mathematical or physics experience. I taught this class to high school students as part of MIT's HSSP educational program. Eventually those materials will make their way up here.
+#### Neutrinos
+I used to work on [KamLAND](http://www.awa.tohoku.ac.jp/kamlande/) and I did an undergraduate thesis on joint detection of supernovae using gravitational waves and neutrinos (back before gravitational waves were confirmed to exist!) 
+<p>No joint events so far: https://arxiv.org/abs/1606.07155
+
+#### Dark Matter
+I did some undergraduate research on bound dark matter states (wimponium). 
+<p>Paper here: https://arxiv.org/abs/1610.07617
+
 
 ### Miscellaneous Hobby-Related Drabbles
 #### [Emergency Medicine](https://github.com/emmettk/EMT)
