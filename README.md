@@ -1,6 +1,6 @@
-[July 2018 Calendar](JulyCalendar.md)
-
+## Emmett's Current Calendar
 [August 2018 Calendar](AugCalendar.md)
+[July 2018 Calendar](JulyCalendar.md)
 
 [WHOI To-Do List](https://emmettk.github.io/todo-whoi.html) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
 
