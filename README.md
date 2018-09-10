@@ -1,6 +1,6 @@
-## Emmett's Current Calendar
-[September](SepCalendar.md)
-[August](AugCalendar.md)
+### Emmett's Current Calendar
+[September](SepCalendar.md) / 
+[August](AugCalendar.md) / 
 [July](JulyCalendar.md)
 
 [WHOI To-Do List](https://emmettk.github.io/todo-whoi.html) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
