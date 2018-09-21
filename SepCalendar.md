@@ -4,6 +4,8 @@
 |---|---|---|---|---|---|---|
 | | |    |    | | 1 Meeting at MIT  | 2 JT/Meeting at MIT |
 | 3 Labor Day (CG Watchstanding) | 4 WHOI  | 5 WHOI |6 WHOI |7 WHOI  |8 Caving  |9 JT  |
-|10  WHOI|11 WHOI |12 WHOI |13 WHOI |14 WHOI (Duck, NC) |15 WHOI (Duck, NC)  |16 WHOI (Duck, NC)  |
-|17  WHOI (Duck, NC)|18  WHOI (Duck, NC) |19 WHOI (Duck, NC)  |20 WHOI (Duck, NC) |21  WHOI (Duck, NC)  |22 WHOI (Duck, NC)  |23 WHOI (Duck, NC)  |
-|24 WHOI |25 WHOI (Duck, NC)  |26  WHOI (Duck, NC)  |27 WHOI (Duck, NC)   |28 WHOI (Duck, NC)  | 29 WHOI (Duck, NC) |30  WHOI (Duck, NC)|
+|10  WHOI|11 WHOI |12 WHOI |13 WHOI |14 WHOI - FRF |15 WHOI - FRF |16 WHOI - FRF  |
+|17  WHOI - FRF|18  WHOI - FRF |19 WHOI - FRF  |20 WHOI - FRF |21  WHOI - FRF  |22 WHOI - FRF  |23 WHOI - FRF  |
+|24 WHOI - FRF |25 WHOI - FRF  |26  WHOI - FRF  |27 WHOI - FRF   |28 WHOI - FRF  | 29 WHOI - FRF |30  WHOI - FRF|
+
+"WHOI - FRF" means I am on-site [here](http://www.frf.usace.army.mil/)
