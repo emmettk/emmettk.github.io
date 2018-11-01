@@ -1,10 +1,3 @@
-### Emmett's Current Calendar
-[September](SepCalendar.md) / 
-[August](AugCalendar.md) / 
-[July](JulyCalendar.md)
-
-[WHOI To-Do List](https://emmettk.github.io/todo-whoi.html) - What I'm currently up to at work; mostly for my/my colleagues' reference. 
-
 ## Personal Projects 
 A loosely-organized directory of my non-work-related technical projects.
 ### Data Science-Related Projects
